@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.5.13+commit.5b0b510c"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": true,
+				"inputs": [],
+				"name": "myUint",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Chapter 7_4/Variables.sol": "WorkingWithVariables"
+		},
+		"evmVersion": "petersburg",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Chapter 7_4/Variables.sol": {
+			"keccak256": "0x2e44d8dcb7c3071d04d2e27fbcbebc14d67fe51c89d7472c60f93a3b95e1f944",
+			"urls": [
+				"bzz-raw://c44cbfeb75208c9096f75ab2379212b575520eb71010adfc15fefae4852148d7",
+				"dweb:/ipfs/QmPtyhKdmCqGjfbQCGpKcX27ShsmYcvDVZwr9Fkhyr2Rhm"
+			]
+		}
+	},
+	"version": 1
+}
